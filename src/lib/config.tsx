@@ -140,7 +140,7 @@ export const siteConfig = {
       question: "What voice agent platforms does AgentiCaller support?",
       answer: (
         <span>
-          AgentiCaller supports all major voice AI platforms including but not limited to Claude Voice, GPT Voice, ElevenLabs, Anthropic Voice, Deepgram, and custom voice agent solutions. We're constantly expanding our integration options to support new platforms.
+          AgentiCaller supports all major voice AI platforms including but not limited to Claude Voice, GPT Voice, ElevenLabs, Anthropic Voice, Deepgram, and custom voice agent solutions. We&apos;re constantly expanding our integration options to support new platforms.
         </span>
       ),
     },

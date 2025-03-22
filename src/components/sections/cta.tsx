@@ -31,7 +31,7 @@ export default function CtaSection() {
             "w-full sm:w-auto"
           )}
         >
-Let's talk
+Let&apos;s talk
         </Link>
       </div>
     </Section>
