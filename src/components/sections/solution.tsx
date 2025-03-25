@@ -16,7 +16,7 @@ const features = [
     content: (
       <>
         <Safari
-          src={`/dashboard.png`}
+          src={`/vapi-summary.png`}
           url="https://agenticaller.com"
           className="-mb-32 mt-4 max-h-64 w-full px-4 select-none drop-shadow-[0_0_28px_rgba(0,0,0,.1)] group-hover:translate-y-[-10px] transition-all duration-300"
         />
@@ -31,7 +31,7 @@ const features = [
       "order-3 xl:order-none hover:bg-blue-500/10 transition-all duration-500 ease-out",
     content: (
       <Safari
-        src={`/phone-numbers.png`}
+        src={`/introducing.png`}
         url="https://agenticaller.com"
         className="-mb-32 mt-4 max-h-64 w-full px-4 select-none drop-shadow-[0_0_28px_rgba(0,0,0,.1)] group-hover:translate-y-[-10px] transition-all duration-300"
       />
@@ -73,7 +73,7 @@ const features = [
       <>
         <Ripple className="absolute -bottom-full" />
         <Safari
-          src={`/introducing.png`}
+          src={`/vapi-cost.png`}
           url="https://agenticaller.com"
           className="-mb-32 mt-4 max-h-64 w-full px-4 select-none drop-shadow-[0_0_28px_rgba(0,0,0,.1)] group-hover:translate-y-[-10px] transition-all duration-300"
         />
@@ -88,7 +88,7 @@ export default function Component() {
       title="Solution"
       subtitle="Demonstrate Voice AI Value with Powerful Analytics"
       description="Generic analytics tools don't capture the unique aspects of voice agent performance. AgentiCaller is purpose-built to help agencies showcase and improve their voice AI agents - and it's completely free."
-      className="bg-neutral-100 dark:bg-neutral-900"
+      className="bg-neutral-100 dark:bg-neutral-900 text-white"
     >
       <div className="mx-auto mt-16 grid max-w-sm grid-cols-1 gap-6 text-gray-500 md:max-w-3xl md:grid-cols-2 xl:grid-rows-2 md:grid-rows-3 xl:max-w-6xl xl:auto-rows-fr xl:grid-cols-3">
         {features.map((feature, index) => (

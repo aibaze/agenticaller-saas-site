@@ -15,7 +15,7 @@ const companies = [
 export default function Logos() {
   return (
     <section id="logos">
-      <div className="container mx-auto px-4 md:px-8 py-12">
+      <div className="container mx-auto px-4 md:px-8 py-12 mt-24">
         <h3 className="text-center text-sm font-semibold text-gray-500">
          WE MASTER THE INTEGRATIONS WITH THE TOOLS YOU LOVE
         </h3>

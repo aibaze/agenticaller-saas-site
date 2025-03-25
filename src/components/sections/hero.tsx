@@ -56,7 +56,7 @@ function HeroTitles() {
           staggerChildren: 0.2,
         }}
       >
-        {["Voice AI", "Performance", "Analytics", "Dashboard"].map((text, index) => (
+        {["White-Label", "Voice AI",  "Analytics", "Dashboard"].map((text, index) => (
           <motion.span
             key={index}
             className="inline-block px-1 md:px-2 text-balance font-semibold"
@@ -147,7 +147,6 @@ export default function Hero2() {
         <HeroTitles />
         <HeroCTA />
       {/*   <HeroImage /> */}
-        <div className="pointer-events-none absolute inset-x-0 -bottom-12 h-1/3 bg-gradient-to-t from-background via-background to-transparent lg:h-1/4"></div>
       </div>
     </section>
   );

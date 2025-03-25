@@ -116,7 +116,7 @@ export const siteConfig = {
       question: "What is AgentiCaller?",
       answer: (
         <span>
-          AgentiCaller is a specialized analytics platform for voice AI agencies to track and measure the performance of their voice agents. Our dashboard provides comprehensive metrics and insights that agencies can share with their clients to demonstrate ROI and improve voice agent effectiveness.
+          AgentiCaller is a white-label analytics platform for voice AI agencies to track and measure the performance of their voice agents. Our dashboard provides comprehensive metrics and insights that agencies can share with their clients to demonstrate ROI and improve voice agent effectiveness.
         </span>
       ),
     },
@@ -124,7 +124,7 @@ export const siteConfig = {
       question: "How can I get started with AgentiCaller?",
       answer: (
         <span>
-          Getting started with AgentiCaller is simple and completely free. Sign up for an account, connect your voice agent platforms through our integration system, and immediately start monitoring performance. We offer a quick setup wizard and documentation to help you get your dashboards configured within minutes.
+          Getting started with AgentiCaller is simple and completely free. Sign up for an account, connect your vapi agent platforms through our integration system, and immediately start monitoring performance. We offer a 2 clicks quick setup and documentation to help you get your dashboards configured within minutes.
         </span>
       ),
     },
@@ -140,7 +140,7 @@ export const siteConfig = {
       question: "What voice agent platforms does AgentiCaller support?",
       answer: (
         <span>
-          AgentiCaller supports all major voice AI platforms including but not limited to Claude Voice, GPT Voice, ElevenLabs, Anthropic Voice, Deepgram, and custom voice agent solutions. We&apos;re constantly expanding our integration options to support new platforms.
+          AgentiCaller supports VAPI currently. We&apos;re constantly expanding our integration options to support new platforms; Currently working on adding retell soon.
         </span>
       ),
     },
