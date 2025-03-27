@@ -21,10 +21,10 @@ function HeroPill() {
       transition={{ duration: 0.8, ease }}
     >
       <div className="w-fit rounded-full bg-accent px-2 py-0.5 text-center text-xs font-medium text-primary sm:text-sm">
-        📣 Announcement
+        📣 Introducing
       </div>
       <p className="text-xs font-medium text-primary sm:text-sm">
-        Introducing AgentiCaller
+         AgentiCaller Dashboards
       </p>
       <svg
         width="12"
